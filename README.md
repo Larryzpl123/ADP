@@ -1,5 +1,5 @@
 # ADP
-AgroDrone Patrol - Autonomous Farm Patrol System
+AgroDrone Patrol - Agricultural Drone Patorl System, Autonomous Crop Patrol System - Part of Autonomous Farm Patrol System
 Leon - PathFinder Pro
 Navigating - Where for the drone to stay, where for the drone to go, shortest safest path
 Example:
