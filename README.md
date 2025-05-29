@@ -1,5 +1,5 @@
 # ADP
-AgroDrone Patrol - Agricultural Drone Patorl System, Autonomous Crop Patrol System - Part of Autonomous Farm Patrol System
+AgroDrone Patrol - Agricultural Drone Patorl System, Autonomous Crop Patrol System - Part of Autonomous Farm Patrol System <br/>
 <img src="/Logo/v0.1.png" alt="Logo" width="369"/>
 
 Leon - PathFinder Pro
