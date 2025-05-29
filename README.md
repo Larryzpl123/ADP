@@ -16,6 +16,6 @@ Example: <br/>
 Example Online Found:
 https://www.ultralytics.com/zh/blog/real-time-crop-health-monitoring-with-ultralytics-yolo11
 
-#Main Document
+# Main Document
 
-<object data="Main Document.pdf" type="application/pdf" width="700px" height="700px">Your browser doesn't support PDFs.</object>
+
