@@ -3,14 +3,14 @@ AgroDrone Patrol - Agricultural Drone Patorl System, Autonomous Crop Patrol Syst
 <img src="/Logo/v0.1.png" alt="Logo" width="369"/>
 
 Leon - PathFinder Pro
-Navigating - Where for the drone to stay, where for the drone to go, shortest safest path
+Navigating - Where for the drone to stay, where for the drone to go, shortest safest path <br/>
 Example: <br/>
 <img src="/Example/PFP.jpg" alt="PFP" width="369"/> <br/>
 Example Online Found:
 https://thenewstack.io/drones-fly-drive-using-path-planning-algorithms/
 
 Larry - PlantVitality Monitor
-Crop Detection - Detect Status of Crops (Healthiness, Type of Sickness/Predict Reason, Predict Harvestable Time, if need to add water, renovate soil, or add fertilizer)
+Crop Detection - Detect Status of Crops (Healthiness, Type of Sickness/Predict Reason, Predict Harvestable Time, if need to add water, renovate soil, or add fertilizer) <br/>
 Example: <br/>
 <img src="/Example/PVM.jpg" alt="PFP" width="369"/> <br/>
 Example Online Found:
