@@ -18,7 +18,7 @@ https://www.ultralytics.com/zh/blog/real-time-crop-health-monitoring-with-ultral
 
 # Main Document
 
-[Main Document](./Main%20Document.pdf) <br/> <br/>
-<a href="./Main%20Document.pdf">
+[Main Document](related%20doc./main%20doc%20v0.1.pdf) <br/> <br/>
+<a href="related%20doc./main%20doc%20v0.1.pdf">
   <img src="/img/bkg%20v0.1.jpg" alt="Logo" width="1234"/>
 </a>
